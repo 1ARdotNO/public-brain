@@ -12,6 +12,9 @@ https://obsidian.md/
 - https://dannb.org/blog/2022/obsidian-daily-note-template/ -> Daily note template [[_Dailys/_template\|_template]]
 - https://help.obsidian.md/How+to/Use+callouts -> Callouts
 - https://github.com/kmaasrud/awesome-obsidian -> Awesome list!
+- live sync plugin https://github.com/vrtmrz/obsidian-livesync/
+	- couchdb server setup https://github.com/vrtmrz/obsidian-livesync/blob/main/docs/setup_own_server.md
+- 
 
 ## Git sync obsidian
 
