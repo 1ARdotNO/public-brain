@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/munki/"}
+{"dg-publish":true,"permalink":"/mac-os/munki/","tags":["public"]}
 ---
 
 ## About munki
@@ -38,7 +38,7 @@ installer -pkg /var/root/munkitools-5.7.3.4444.pkg -target /
 fi
 
 #set repo address
-defaults write /Library/Preferences/ManagedInstalls SoftwareRepoURL "https://munki.hub.fintechinnovation.no/"
+defaults write /Library/Preferences/ManagedInstalls SoftwareRepoURL "https://mydomain.com/"
 
 defaults write /Library/Preferences/ManagedInstalls AdditionalHttpHeaders -array "Authorization: Basic bXVua2k6MndzeC54c3cy"
 
