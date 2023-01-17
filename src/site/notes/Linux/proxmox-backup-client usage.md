@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/proxmox-backup-client-usage/"}
+{"dg-publish":true,"permalink":"/linux/proxmox-backup-client-usage/","tags":["public","proxmox","backup","linux"]}
 ---
 
 # About
@@ -7,11 +7,6 @@
 This page contains an excerpt for the usage of the proxmox-backup-client CLI utility.  
 This reference is kept here for the sake of quick access and completeness.  
 The source reference is: [https://pbs.proxmox.com/docs/backup-client.html](https://pbs.proxmox.com/docs/backup-client.html "https://pbs.proxmox.com/docs/backup-client.html")
-
-# Our details for quick reference
-
-A list of datastores can be found here [Sources](https://neonomics.atlassian.net/wiki/spaces/IT/pages/2161278998) in the “**Target with datastore”** column  
-Credentials are stored in the password file. (Admin user for proxmox backup server)
 
 # Backup Client Usage
 
