@@ -63,7 +63,7 @@ Check that /dev/ptmx exists. If it does not, create with:
 mknod --mode 666 /vz/private/123/dev/ptmx c 5 2
 `
 
-# **/dev/pts/** 
+# /dev/pts/
 
 Check that /dev/pts exists. It's a directory, if it does not exist, create with:
 
@@ -71,7 +71,7 @@ Check that /dev/pts exists. It's a directory, if it does not exist, create with:
 mkdir /vz/private/123/dev/pts
 `
 
-# **/dev/ttyp* and /dev/ptyp***
+# /dev/ttyp and /dev/ptyp
  
 
 To copy:
