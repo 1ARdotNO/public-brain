@@ -16,7 +16,8 @@ Use tar and excluding some dirs, you could do it like this:
 
 Create a file /tmp/excludes.excl with these contents:
 
-`.bash_history
+`
+.bash_history
 /dev/*
 /mnt/*
 /tmp/*
