@@ -105,7 +105,7 @@ Check that /dev/urandom exists. If it does not, create with:
 `mknod --mode 444 /vz/private/123/dev/urandom c 1 9`
 
 
-# References; 
+# References
 
 http:~/~/openvz.org/Physical_to_container
 
