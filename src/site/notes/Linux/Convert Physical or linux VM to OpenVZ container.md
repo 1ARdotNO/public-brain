@@ -49,8 +49,7 @@ Copy the Tar you created to the hypervisor and extract it to the appropriate dir
 A container does not have real ttys, so you have to disable getty in /etc/inittab (i. e. /vz/private/123/etc/inittab).
 
 `sed -i -e 's/^[0-9].*getty.*tty/#&/g'  /vz/private/123/etc/inittab`
-
-#  
+ 
 
 # tty device nodes 
 
