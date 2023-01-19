@@ -144,8 +144,9 @@ This creates a backup of both disks.
 
 The backup command takes a list of backup specifications, which include the archive name on the server, the type of the archive, and the archive source at the client. The format is:
 
-> <archive-name>.<type>:<source-path>
-
+```
+<archive-name>.<type>:<source-path>
+```
 Common types are `.pxar` for file archives, and `.img` for block device images. To create a backup of a block device run the following command:
 
 `1# proxmox-backup-client backup mydata.img:/dev/mylvm/mydata 2`
