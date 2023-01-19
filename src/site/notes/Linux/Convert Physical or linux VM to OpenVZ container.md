@@ -32,7 +32,7 @@ Before running this command make sure all critical services are stopped eg. mysq
 
 ```
 # tar --numeric-owner -cjpf /tmp/mysystem.tar.bz2 / -X /tmp/excludes.excl
-`
+```
 
 
 # Extract the data 
