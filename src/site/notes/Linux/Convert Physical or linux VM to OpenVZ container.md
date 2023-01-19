@@ -59,14 +59,16 @@ In order for vzctl enter to work, a container needs to have some entries in /dev
 
 Check that /dev/ptmx exists. If it does not, create with:
 
-`mknod --mode 666 /vz/private/123/dev/ptmx c 5 2
+`
+mknod --mode 666 /vz/private/123/dev/ptmx c 5 2
 `
 
 # **/dev/pts/** 
 
 Check that /dev/pts exists. It's a directory, if it does not exist, create with:
 
-`mkdir /vz/private/123/dev/pts
+`
+mkdir /vz/private/123/dev/pts
 `
 
 # **/dev/ttyp* and /dev/ptyp***
@@ -74,12 +76,14 @@ Check that /dev/pts exists. It's a directory, if it does not exist, create with:
 
 To copy:
 
-`cp -a /dev/ttyp* /dev/ptyp* /vz/private/123/dev/
+`
+cp -a /dev/ttyp* /dev/ptyp* /vz/private/123/dev/
 `
 
 To recreate with MAKEDEV, either
 
-`/sbin/MAKEDEV -d /vz/private/123/dev ttyp ptyp
+`
+/sbin/MAKEDEV -d /vz/private/123/dev ttyp ptyp
 `
 
 or
@@ -89,7 +93,8 @@ or
 
 Make sure sure /dev/null is not a file or directory; if unsure remove and recreate. If this is not correct sshd will not start correctly.
 
-`rm -f /vz/private/123/dev/null
+`
+rm -f /vz/private/123/dev/null
 mknod --mode 666 /vz/private/123/dev/null c 1 3
 `
 
