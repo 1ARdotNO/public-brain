@@ -16,7 +16,7 @@ Use tar and excluding some dirs, you could do it like this:
 
 Create a file /tmp/excludes.excl with these contents:
 
-`
+```
 .bash_history
 /dev/*
 /mnt/*
@@ -24,13 +24,14 @@ Create a file /tmp/excludes.excl with these contents:
 /proc/*
 /sys/*
 /usr/src/*
-`
+```
 
 Then create the tar. But remember, when the system is 'not' using udev, you have to look into /proc/ after creating your container because some devices might not exist. (/dev/ptmx or others) (Not neccesarry if used with Debian 7.x template)
 
 Before running this command make sure all critical services are stopped eg. mysql, tomcat, apache etc. (If there are problems you can also boot from a live cd to this bit)
 
-`# tar --numeric-owner -cjpf /tmp/mysystem.tar.bz2 / -X /tmp/excludes.excl
+```
+# tar --numeric-owner -cjpf /tmp/mysystem.tar.bz2 / -X /tmp/excludes.excl
 `
 
 
