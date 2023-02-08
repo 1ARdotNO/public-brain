@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/windows/install-windows-via-ssh/"}
+{"dg-publish":true,"permalink":"/windows/install-windows-via-ssh/","tags":["public","linux","vps","windows","ssh"]}
 ---
 
 With pictures:
