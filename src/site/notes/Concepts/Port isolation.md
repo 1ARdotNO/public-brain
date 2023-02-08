@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/port-isolation/"}
+{"dg-publish":true,"permalink":"/concepts/port-isolation/","tags":["public"]}
 ---
 
 #wifi #networking #unifi
