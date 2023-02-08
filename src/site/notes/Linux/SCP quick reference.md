@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/scp-quick-reference/"}
+{"dg-publish":true,"permalink":"/linux/scp-quick-reference/","tags":["public","tool","linux"]}
 ---
 
 
