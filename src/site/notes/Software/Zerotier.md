@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/zerotier/"}
+{"dg-publish":true,"permalink":"/software/zerotier/","tags":["public"]}
 ---
 
 
