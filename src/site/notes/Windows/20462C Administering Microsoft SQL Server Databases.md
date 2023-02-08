@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/windows/20462-c-administering-microsoft-sql-server-databases/"}
+{"dg-publish":true,"permalink":"/windows/20462-c-administering-microsoft-sql-server-databases/","tags":["public","kurs","mssql"]}
 ---
 
 # Backup
