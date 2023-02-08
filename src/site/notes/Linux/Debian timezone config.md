@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/debian-timezone-config/"}
+{"dg-publish":true,"permalink":"/linux/debian-timezone-config/","tags":["public","linux","debian"]}
 ---
 
 
