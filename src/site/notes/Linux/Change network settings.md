@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/change-network-settings/"}
+{"dg-publish":true,"permalink":"/linux/change-network-settings/","tags":["public","linux","networking"]}
 ---
 
 
