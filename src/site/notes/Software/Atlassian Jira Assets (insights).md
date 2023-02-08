@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/atlassian-jira-assets-insights/"}
+{"dg-publish":true,"permalink":"/software/atlassian-jira-assets-insights/","tags":["public","jira","atlassian"]}
 ---
 
 
