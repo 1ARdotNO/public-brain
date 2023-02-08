@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/appwrite/"}
+{"dg-publish":true,"permalink":"/software/appwrite/","tags":["public","jira","atlassian"]}
 ---
 
 
