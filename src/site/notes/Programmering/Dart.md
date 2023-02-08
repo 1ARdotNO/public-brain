@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programmering/dart/"}
+{"dg-publish":true,"permalink":"/programmering/dart/","tags":["public"]}
 ---
 
 
