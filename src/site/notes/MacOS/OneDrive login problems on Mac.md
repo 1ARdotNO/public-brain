@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/one-drive-login-problems-on-mac/"}
+{"dg-publish":true,"permalink":"/mac-os/one-drive-login-problems-on-mac/","tags":["public","macos","onedrive"]}
 ---
 
 ## To reset OneDrive on a Mac
