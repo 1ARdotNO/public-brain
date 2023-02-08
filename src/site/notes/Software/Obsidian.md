@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/obsidian/"}
+{"dg-publish":true,"permalink":"/software/obsidian/","tags":["public"]}
 ---
 
 ## About
