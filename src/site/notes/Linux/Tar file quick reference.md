@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/tar-file-quick-reference/"}
+{"dg-publish":true,"permalink":"/linux/tar-file-quick-reference/","tags":["public","linux","tools"]}
 ---
 
 #zip
