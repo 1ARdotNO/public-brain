@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/filevault-password-out-of-sync-issues/"}
+{"dg-publish":true,"permalink":"/mac-os/filevault-password-out-of-sync-issues/","tags":["public","macos","domain","activedirectory"]}
 ---
 
 
