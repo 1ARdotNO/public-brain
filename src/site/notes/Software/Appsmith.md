@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/appsmith/"}
+{"dg-publish":true,"permalink":"/software/appsmith/","tags":["public"]}
 ---
 
 
