@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/templates/public-document-template/"}
+{"dg-publish":true,"permalink":"/templates/public-document-template/","tags":["public"]}
 ---
 
