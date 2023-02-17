@@ -32,3 +32,19 @@
  
  After your workflow has completed, it automatically cleans up by revoking the runner’s access to the network.
 source: [ZeroTier and Github Actions – ZeroTier](https://www.zerotier.com/2022/12/20/zerotier-and-github-actions/)
+
+<script src="https://giscus.app/client.js"
+        data-repo="OvrAp3x/public-brain"
+        data-repo-id="R_kgDOIfUKyw"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOIfUKy84CURb2"
+        data-mapping="title"
+        data-strict="1"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
