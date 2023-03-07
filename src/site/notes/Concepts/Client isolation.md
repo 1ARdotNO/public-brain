@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/client-isolation/","tags":["public"]}
+{"dg-publish":true,"permalink":"/concepts/client-isolation/","tags":["public"],"noteIcon":"1"}
 ---
 
 #wifi #networking #unifi 
