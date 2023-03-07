@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/dns-settings/","tags":["public"]}
+{"dg-publish":true,"permalink":"/linux/dns-settings/","tags":["public"],"noteIcon":"1"}
 ---
 
 #dns #linux 
