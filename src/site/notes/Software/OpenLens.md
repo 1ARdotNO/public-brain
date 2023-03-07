@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/open-lens/","tags":["public","tool"]}
+{"dg-publish":true,"permalink":"/software/open-lens/","tags":["public","tool"],"noteIcon":"1"}
 ---
 
 #k8s #container 
