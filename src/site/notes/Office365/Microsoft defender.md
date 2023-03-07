@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/office365/microsoft-defender/","tags":["public"]}
+{"dg-publish":true,"permalink":"/office365/microsoft-defender/","tags":["public"],"noteIcon":"1"}
 ---
 
 
