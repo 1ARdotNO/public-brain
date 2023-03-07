@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/windows/set-local-user/","tags":["powershell","windows"]}
+{"dg-publish":true,"permalink":"/windows/set-local-user/","tags":["powershell","windows"],"noteIcon":"1"}
 ---
 
 
