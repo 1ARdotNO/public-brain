@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/gdpr/","tags":["public"]}
+{"dg-publish":true,"permalink":"/concepts/gdpr/","tags":["public"],"noteIcon":"1"}
 ---
 
 
