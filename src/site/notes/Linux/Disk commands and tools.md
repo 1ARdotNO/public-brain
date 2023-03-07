@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/disk-commands-and-tools/","tags":["public"]}
+{"dg-publish":true,"permalink":"/linux/disk-commands-and-tools/","tags":["public"],"noteIcon":"1"}
 ---
 
 
