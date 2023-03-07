@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/proxmox-ve/","tags":["public"]}
+{"dg-publish":true,"permalink":"/software/proxmox-ve/","tags":["public"],"noteIcon":"1"}
 ---
 
 #proxmox #pve
