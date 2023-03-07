@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stuff/rubiks-cube/","tags":["public"]}
+{"dg-publish":true,"permalink":"/stuff/rubiks-cube/","tags":["public"],"noteIcon":"1"}
 ---
 
 
