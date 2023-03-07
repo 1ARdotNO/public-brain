@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/ncdu/","tags":["public","disk","debian","linux","tool"]}
+{"dg-publish":true,"permalink":"/linux/ncdu/","tags":["public","disk","debian","linux","tool"],"noteIcon":"1"}
 ---
 
 
