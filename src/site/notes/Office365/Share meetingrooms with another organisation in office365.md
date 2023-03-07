@@ -37,4 +37,3 @@ Some additional info on this can be found here;
  - [Create an organization relationship in Exchange Online | Microsoft Learn](https://learn.microsoft.com/en-us/exchange/sharing/organization-relationships/create-an-organization-relationship)
  - [Redirecting](https://answers.microsoft.com/en-us/msoffice/forum/all/external-booking-view-of-availability-of-meeting/9411ad13-08ec-4c8c-b3f2-47b2e5393843)
  - [Sharing meeting rooms between 2 office365 Domains/Accounts - Microsoft Community](https://answers.microsoft.com/en-us/msoffice/forum/all/sharing-meeting-rooms-between-2-office365/c5d6ba4e-678a-49c1-8780-ca39fdb2c0d0)
- - 
