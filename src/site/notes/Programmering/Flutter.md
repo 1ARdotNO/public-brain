@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/programmering/flutter/","tags":["public"]}
+{"dg-publish":true,"permalink":"/programmering/flutter/","tags":["public"],"noteIcon":"1"}
 ---
 
