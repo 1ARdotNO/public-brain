@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/docker/","tags":["public","container","docker","macos"]}
+{"dg-publish":true,"permalink":"/software/docker/","tags":["public","container","docker","macos"],"noteIcon":"1"}
 ---
 
 
