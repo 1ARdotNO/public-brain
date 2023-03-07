@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/security/security-resources/","tags":["public"]}
+{"dg-publish":true,"permalink":"/security/security-resources/","tags":["public"],"noteIcon":"1"}
 ---
 
 
