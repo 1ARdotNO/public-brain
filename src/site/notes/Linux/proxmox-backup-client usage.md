@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/proxmox-backup-client-usage/","tags":["public","proxmox","backup","linux"]}
+{"dg-publish":true,"permalink":"/linux/proxmox-backup-client-usage/","tags":["public","proxmox","backup","linux"],"noteIcon":"1"}
 ---
 
 # About
