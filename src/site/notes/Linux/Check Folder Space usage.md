@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/check-folder-space-usage/","tags":["public","linux","disk"]}
+{"dg-publish":true,"permalink":"/linux/check-folder-space-usage/","tags":["public","linux","disk"],"noteIcon":"1"}
 ---
 
 
