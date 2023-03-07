@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/windows/user-folder-ownership/","tags":["public","windows","activedirectory"]}
+{"dg-publish":true,"permalink":"/windows/user-folder-ownership/","tags":["public","windows","activedirectory"],"noteIcon":"1"}
 ---
 
 ### About
