@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/mac-os-preferences/","tags":["public"]}
+{"dg-publish":true,"permalink":"/mac-os/mac-os-preferences/","tags":["public"],"noteIcon":"1"}
 ---
 
 #### Enable non-admins to change wifi settings
