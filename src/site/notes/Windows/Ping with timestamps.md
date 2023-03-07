@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/windows/ping-with-timestamps/","tags":["public","windows","ping","cmd","network"]}
+{"dg-publish":true,"permalink":"/windows/ping-with-timestamps/","tags":["public","windows","ping","cmd","network"],"noteIcon":"1"}
 ---
 
 Asks for hostname and does the rest automatically
