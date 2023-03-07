@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/basic-varnish-setup/","tags":["public","linux","varnish","cache","web"]}
+{"dg-publish":true,"permalink":"/linux/basic-varnish-setup/","tags":["public","linux","varnish","cache","web"],"noteIcon":"1"}
 ---
 
 # Install varnish
