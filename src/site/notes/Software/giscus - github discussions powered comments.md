@@ -24,7 +24,7 @@ I have been looking into implementing some comments feature for the pages.
 I have tested with [https://giscus.app/](https://giscus.app/) which uses gihub discussions as the backend for the comment field.
 
 configured as such  
-[![image](https://user-images.githubusercontent.com/14344702/219622657-db5a2194-e57e-41e1-9c31-78c16012ed6c.png)](https://user-images.githubusercontent.com/14344702/219622657-db5a2194-e57e-41e1-9c31-78c16012ed6c.png)
+[![image](/img/user/attachments/image.png)](https://user-images.githubusercontent.com/14344702/219622657-db5a2194-e57e-41e1-9c31-78c16012ed6c.png)
 
 Then taking the snippet created from the giscus app and pasting it at the bottom of the .md file and due to the feature of rendering html in digital garden already, this causes the comment field to be loaded and it works great :-)  
 Example: [https://1ar.no/zero-tier-and-github-actions-zero-tier/](https://1ar.no/zero-tier-and-github-actions-zero-tier/)  
