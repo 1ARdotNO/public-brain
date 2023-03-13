@@ -18,6 +18,8 @@ Setup as shown in the picture, make sure to define the group created earlier in 
 ![Pasted image 20230307152755.png](/img/user/Office365/attachments/Pasted%20image%2020230307152755.png)
 This allows the other org to see /free/busy status of the meeting rooms in the group.
 
+In the org you are sharing with this also needs to be configured, ut you do not have to share anything back if you do not want to, ie. do not check the "enable calendar free/busy information sharing"
+
 #### Enable external calendar processing
 Connect to exchangeonline using #powershell and run this command for each room
 ```powershell
