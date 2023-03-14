@@ -14,7 +14,8 @@ https://obsidian.md/
 - https://github.com/kmaasrud/awesome-obsidian -> Awesome list!
 - live sync plugin https://github.com/vrtmrz/obsidian-livesync/
 	- couchdb server setup https://github.com/vrtmrz/obsidian-livesync/blob/main/docs/setup_own_server.md
-- 
+- [GitHub - dartungar/obsidian-emotion-picker: Plugin for Obsidian.md that provides an easy way to insert emotions from a customizeable list.](https://github.com/dartungar/obsidian-emotion-picker) 
+- [GitHub - tadashi-aikawa/obsidian-various-complements-plugin: This plugin for Obsidian enables you complete words like the auto-completion of IDE.](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin) fantastisk autocomplete til [[Software/Obsidian\|Obsidian]] 
 
 ## Git sync obsidian
 
