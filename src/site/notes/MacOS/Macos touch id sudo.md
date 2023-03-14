@@ -9,6 +9,9 @@ Add the following to the top of the file
 ```
 auth sufficient pam_tid.so
 ```
+
+> [!NOTE] add it to the top of the file or it will cause it to prompt for both touchid and password input
+
 Script to have it set the setting automatically if it is not set. (useful for deployment in intune etc)
 ```bash
 #!/bin/bash
