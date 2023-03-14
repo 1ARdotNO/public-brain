@@ -25,3 +25,14 @@ To rollback when a "wrong" sync happens use
 git revert CommitIdOfWrongCommit
 ```
 Then, remove the local copy of files in obsidian, and recreate the vault and setup the sync again.
+
+## graph view
+
+#### Exclude a specific folder from graph view
+In the graph view, under "Filters", type
+
+```
+-path:
+```
+
+Then you can either continue typing the name of the path or select it from the pop-up window that appears with all the paths in your vault. Once you select a path it will be excluded from your graph view (because of the minus sign)
