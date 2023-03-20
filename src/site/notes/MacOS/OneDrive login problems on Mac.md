@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/one-drive-login-problems-on-mac/","tags":["public","macos","onedrive"],"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/mac-os/one-drive-login-problems-on-mac/","tags":["public","macos","onedrive"],"noteIcon":"1","created":"2022-12-23T10:51:18.221+01:00","updated":"2022-12-23T10:51:18.221+01:00"}
 ---
 
 ## To reset OneDrive on a Mac
