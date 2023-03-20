@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stuff/azureautorest-powershell-auto-rest-power-shell-generator/","noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/stuff/azureautorest-powershell-auto-rest-power-shell-generator/","noteIcon":"1","created":"2022-12-23T10:22:06.437+01:00","updated":"2022-12-23T10:22:06.437+01:00"}
 ---
 
 
