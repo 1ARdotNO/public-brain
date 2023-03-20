@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/scp-quick-reference/","tags":["public","tool","linux"],"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/linux/scp-quick-reference/","tags":["public","tool","linux"],"noteIcon":"1","created":"2022-12-23T10:22:06.309+01:00","updated":"2022-12-23T10:22:06.309+01:00"}
 ---
 
 
