@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programmering/powershell-notes/powershell-error-handling-with-external-commands/","tags":["public"],"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/programmering/powershell-notes/powershell-error-handling-with-external-commands/","tags":["public"],"noteIcon":"1","created":"","updated":""}
 ---
 
 #powershell 
