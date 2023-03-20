@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stuff/arduino-controlpanel-med-server-interface/","tags":["public","project","arduino"],"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/stuff/arduino-controlpanel-med-server-interface/","tags":["public","project","arduino"],"noteIcon":"1","created":"","updated":""}
 ---
 
 #Github link: https://github.com/autopkg/dataJAR-recipes
