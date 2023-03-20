@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stuff/rubiks-cube/","tags":["public"],"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/stuff/rubiks-cube/","tags":["public"],"noteIcon":"1","created":"2022-12-23T10:51:18.509+01:00","updated":"2022-12-23T10:51:18.513+01:00"}
 ---
 
 
