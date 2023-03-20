@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-prompts/javascript-code-for-a-login-page-using-appwrite-for-authentication/","tags":["public","ai"],"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/ai-prompts/javascript-code-for-a-login-page-using-appwrite-for-authentication/","tags":["public","ai"],"noteIcon":"1","created":"","updated":""}
 ---
 
 
