@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/you-shut-down-your-computer-because-of-a-problem-mac-os/","tags":["public","macos","intel","t2"],"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/mac-os/you-shut-down-your-computer-because-of-a-problem-mac-os/","tags":["public","macos","intel","t2"],"noteIcon":"1","created":"","updated":""}
 ---
 
 
