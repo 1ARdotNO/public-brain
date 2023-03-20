@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/recipe-robot/","tags":["public","munki","autopkg"],"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/mac-os/recipe-robot/","tags":["public","munki","autopkg"],"noteIcon":"1","created":"","updated":""}
 ---
 
 
