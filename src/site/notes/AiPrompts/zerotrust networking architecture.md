@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-prompts/zerotrust-networking-architecture/","tags":["public","ai"],"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/ai-prompts/zerotrust-networking-architecture/","tags":["public","ai"],"noteIcon":"1","created":"","updated":""}
 ---
 
 
