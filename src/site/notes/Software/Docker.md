@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/docker/","tags":["public","container","docker","macos"],"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/software/docker/","tags":["public","container","docker","macos"],"noteIcon":"1","created":"2023-01-02T11:57:01.892+01:00","updated":"2023-01-02T12:01:42.232+01:00"}
 ---
 
 
