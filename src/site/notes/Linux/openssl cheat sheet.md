@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/openssl-cheat-sheet/","tags":["public","linux","ssl"],"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/linux/openssl-cheat-sheet/","tags":["public","linux","ssl"],"noteIcon":"1","created":"","updated":""}
 ---
 
 # Converting a PFX file to PEM and Key via openssl
