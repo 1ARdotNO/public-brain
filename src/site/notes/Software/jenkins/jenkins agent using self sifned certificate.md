@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/jenkins/jenkins-agent-using-self-sifned-certificate/","tags":["public"],"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/software/jenkins/jenkins-agent-using-self-sifned-certificate/","tags":["public"],"noteIcon":"1","created":"2023-02-17T13:03:24.705+01:00","updated":"2023-03-14T14:39:41.722+01:00"}
 ---
 
 WHen running jenkins agent using aself signed certificate on a host you can make the agent ignore the cerificate check by adding the argument `-noCertificateCheck ` to execution in the config.xml
