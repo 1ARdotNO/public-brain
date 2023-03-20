@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stuff/enable-external-users-to-book-meeting-rooms-in-office365/","tags":["office365","powershell","public"],"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/stuff/enable-external-users-to-book-meeting-rooms-in-office365/","tags":["office365","powershell","public"],"noteIcon":"1","created":"","updated":""}
 ---
 
 url: https://dotsh.no/2020/02/14/enable-external-booking-of-meeting-rooms/
