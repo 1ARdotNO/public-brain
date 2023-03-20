@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stuff/arduino-fan-central/","tags":["arduino","project"],"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/stuff/arduino-fan-central/","tags":["arduino","project"],"noteIcon":"1","created":"","updated":""}
 ---
 
 
