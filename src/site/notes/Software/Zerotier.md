@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/zerotier/","tags":["public"],"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/software/zerotier/","tags":["public"],"noteIcon":"1","created":"2022-12-23T10:22:06.394+01:00","updated":"2022-12-23T10:22:06.395+01:00"}
 ---
 
 
