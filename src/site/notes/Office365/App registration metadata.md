@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/office365/app-registration-metadata/","tags":["public","office365","azuread"],"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/office365/app-registration-metadata/","tags":["public","office365","azuread"],"noteIcon":"1","created":"","updated":""}
 ---
 
 # about
