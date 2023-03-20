@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/windows/set-local-user/","tags":["powershell","windows"],"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/windows/set-local-user/","tags":["powershell","windows"],"noteIcon":"1","created":"2022-12-23T10:51:18.849+01:00","updated":"2022-12-23T10:51:18.849+01:00"}
 ---
 
 
