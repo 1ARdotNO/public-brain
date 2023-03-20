@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/office365/share-meetingrooms-with-another-organisation-in-office365/","tags":["public"],"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/office365/share-meetingrooms-with-another-organisation-in-office365/","tags":["public"],"noteIcon":"1","created":"2023-03-07T15:24:33.442+01:00","updated":"2023-03-13T12:39:17.377+01:00"}
 ---
 
 #office365 
