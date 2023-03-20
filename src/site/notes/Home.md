@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"1","created":"2022-12-23T10:22:06.305+01:00","updated":"2023-01-02T14:41:09.076+01:00"}
 ---
  
 ## Hey 👋, This is Einar Stenberg
