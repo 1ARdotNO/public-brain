@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/giscus-github-discussions-powered-comments/","tags":["public"],"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/software/giscus-github-discussions-powered-comments/","tags":["public"],"noteIcon":"1","created":"","updated":""}
 ---
 
 #Github 
