@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/macos-touch-id-sudo/","tags":["public","macos","sudo"],"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/mac-os/macos-touch-id-sudo/","tags":["public","macos","sudo"],"noteIcon":"1","created":"2023-01-17T23:11:58.494+01:00","updated":"2023-03-14T15:19:37.001+01:00"}
 ---
 
 To use touchid for sudo on your mac
