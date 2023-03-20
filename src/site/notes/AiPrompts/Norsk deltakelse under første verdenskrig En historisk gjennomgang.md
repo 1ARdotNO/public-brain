@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-prompts/norsk-deltakelse-under-forste-verdenskrig-en-historisk-gjennomgang/","tags":["public","ai"],"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/ai-prompts/norsk-deltakelse-under-forste-verdenskrig-en-historisk-gjennomgang/","tags":["public","ai"],"noteIcon":"1","created":"","updated":""}
 ---
 
 
