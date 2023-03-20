@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/office365/convert-a-mailbox-to-another-type/","tags":["public"],"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/office365/convert-a-mailbox-to-another-type/","tags":["public"],"noteIcon":"1","created":"2023-01-25T14:36:37.954+01:00","updated":"2023-01-25T14:39:01.839+01:00"}
 ---
 
 #office365 #outlook 
