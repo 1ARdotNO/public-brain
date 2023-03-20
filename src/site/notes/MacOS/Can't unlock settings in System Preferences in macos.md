@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/can-t-unlock-settings-in-system-preferences-in-macos/","tags":["public","macos","intel","t2"],"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/mac-os/can-t-unlock-settings-in-system-preferences-in-macos/","tags":["public","macos","intel","t2"],"noteIcon":"1","created":"","updated":""}
 ---
 
 Your Mac asks you to enter the name and password of an admin account when it needs to verify that you have permission to make changes. For example, you must authenticate as an administrator when you click the lock  in System Preferences, [enter certain commands in Terminal](https://support.apple.com/kb/HT202035 "https://support.apple.com/kb/HT202035"), or [set a firmware password](https://support.apple.com/kb/HT204455 "https://support.apple.com/kb/HT204455").
