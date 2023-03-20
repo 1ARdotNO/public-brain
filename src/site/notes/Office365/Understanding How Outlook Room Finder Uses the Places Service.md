@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/office365/understanding-how-outlook-room-finder-uses-the-places-service/","tags":["public"],"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/office365/understanding-how-outlook-room-finder-uses-the-places-service/","tags":["public"],"noteIcon":"1","created":"2023-01-25T14:32:05.599+01:00","updated":"2023-01-25T14:33:49.597+01:00"}
 ---
 
 #office365 #powershell #outlook 
