@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-prompts/zerotier-service/","tags":["public","ai"],"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/ai-prompts/zerotier-service/","tags":["public","ai"],"noteIcon":"1","created":"2023-03-13T13:12:36.490+01:00","updated":"2023-03-13T14:19:44.417+01:00"}
 ---
 
 ```tg
