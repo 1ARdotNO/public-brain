@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/office365/enable-screen-capture-protect-on-azure-virtual-desktop-windows365/","tags":["public"],"noteIcon":"1","created":"2023-04-13T14:52:52.216+02:00","updated":"2023-04-13T14:57:47.722+02:00"}
+{"dg-publish":true,"permalink":"/office365/enable-screen-capture-protect-on-azure-virtual-desktop-windows365/","tags":["public","office365","windows365"],"noteIcon":"1","created":"2023-04-13T14:52:52.216+02:00","updated":"2023-04-13T14:58:05.034+02:00"}
 ---
 
 
