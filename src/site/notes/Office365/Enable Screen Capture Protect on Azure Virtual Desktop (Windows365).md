@@ -1,10 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/office365/enable-screen-capture-protect-on-azure-virtual-desktop-windows365/","tags":["public","office365","windows365"],"noteIcon":"1","created":"2023-04-13T14:52:52.216+02:00","updated":"2023-04-13T14:58:05.034+02:00"}
+{"dg-publish":true,"permalink":"/office365/enable-screen-capture-protect-on-azure-virtual-desktop-windows365/","tags":["public","office365","windows365"],"noteIcon":"1","created":"2023-04-13T14:52:52.216+02:00","updated":"2023-04-13T15:00:15.395+02:00"}
 ---
 
 
 ## about
 To enable the Screen Capture Protection feature we need a very simple PowerShell Script (it can also be done using admx GPO templates, but this is the easiest way for Intune managed systems.)
+
+Microsoft article: [Screen capture protection in Azure Virtual Desktop - Azure | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-desktop/screen-capture-protection)
+
+## script 
+```powershell
+#Enable ScreenCaptureProtection
+
+Set-ItemProperty "HKLM:SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services" -Name fEnableScreenCaptureProtection -Value 1 -Type DWORD
+```
 
 ## Implementation
 1.  Sign in to Microsoft Endpoint Manager portal ([https://endpoint.microsoft.com/](https://endpoint.microsoft.com/))
