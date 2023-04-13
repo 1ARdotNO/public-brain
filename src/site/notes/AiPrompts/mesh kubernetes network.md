@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-prompts/mesh-kubernetes-network/","tags":["public","ai"],"noteIcon":"1","created":"2023-03-13T14:32:35.908+01:00","updated":"2023-03-13T14:34:13.912+01:00"}
+{"dg-publish":true,"permalink":"/ai-prompts/mesh-kubernetes-network/","tags":["public","ai"],"noteIcon":"1","created":"2023-03-13T14:32:35.908+01:00","updated":"2023-03-13T22:18:40.909+01:00"}
 ---
 
 
