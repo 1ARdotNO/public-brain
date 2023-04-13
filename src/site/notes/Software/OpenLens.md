@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/open-lens/","tags":["public","tool"],"noteIcon":"1","created":"2023-01-11T14:48:55.309+01:00","updated":"2023-01-11T14:56:21.867+01:00"}
+{"dg-publish":true,"permalink":"/software/open-lens/","tags":["public","tool"],"noteIcon":"1","created":"2023-01-11T14:48:55.309+01:00","updated":"2023-01-17T23:12:24.146+01:00"}
 ---
 
 #k8s #container 
