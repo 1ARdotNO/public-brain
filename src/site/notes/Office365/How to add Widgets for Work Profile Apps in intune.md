@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/office365/how-to-add-widgets-for-work-profile-apps-in-intune/","tags":["public"],"noteIcon":"1","created":"2023-01-11T10:00:20.853+01:00","updated":"2023-01-11T10:03:18.609+01:00"}
+{"dg-publish":true,"permalink":"/office365/how-to-add-widgets-for-work-profile-apps-in-intune/","tags":["public"],"noteIcon":"1","created":"2023-01-11T10:00:20.853+01:00","updated":"2023-01-17T23:12:11.290+01:00"}
 ---
 
 
