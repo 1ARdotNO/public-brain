@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/windows/set-local-user/","tags":["powershell","windows"],"noteIcon":"1","created":"2022-12-23T10:51:18.849+01:00","updated":"2022-12-23T10:51:18.849+01:00"}
+{"dg-publish":true,"permalink":"/windows/set-local-user/","tags":["powershell","windows"],"noteIcon":"1","created":"2022-12-23T10:51:18.849+01:00","updated":"2023-03-27T22:00:05.298+02:00"}
 ---
 
 
@@ -18,3 +18,5 @@ $UserAccount | Set-LocalUser -Password $Password
 $UserAccount = Get-LocalUser -Name "User02"
 $UserAccount | Enable-LocalUser
 ```
+
+
