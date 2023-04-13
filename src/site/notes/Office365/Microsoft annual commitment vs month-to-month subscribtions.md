@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/office365/microsoft-annual-commitment-vs-month-to-month-subscribtions/","tags":["public"],"noteIcon":"1","created":"2023-03-08T13:58:22.621+01:00","updated":"2023-03-08T14:06:28.156+01:00"}
+{"dg-publish":true,"permalink":"/office365/microsoft-annual-commitment-vs-month-to-month-subscribtions/","tags":["public"],"noteIcon":"1","created":"2023-03-08T13:58:22.621+01:00","updated":"2023-03-08T20:34:21.772+01:00"}
 ---
 
 
