@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/app-registration-in-azure-ad/","tags":["public","ai","office365","azuread"],"noteIcon":"1","created":"2023-03-14T15:41:00.468+01:00","updated":"2023-03-14T15:44:29.270+01:00"}
+{"dg-publish":true,"permalink":"/concepts/app-registration-in-azure-ad/","tags":["public","ai","office365","azuread"],"noteIcon":"1","created":"2023-03-14T15:41:00.468+01:00","updated":"2023-04-03T17:59:16.870+02:00"}
 ---
 
 
