@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-prompts/history-of-bananas/","tags":["public","ai"],"noteIcon":"1","created":"2023-03-13T13:19:45.297+01:00","updated":"2023-03-13T14:19:26.158+01:00"}
+{"dg-publish":true,"permalink":"/ai-prompts/history-of-bananas/","tags":["public","ai"],"noteIcon":"1","created":"2023-03-13T13:19:45.297+01:00","updated":"2023-03-13T22:18:40.864+01:00"}
 ---
 
 ```tg
