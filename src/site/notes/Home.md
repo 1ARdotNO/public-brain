@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"1","created":"2022-12-23T10:22:06.305+01:00","updated":"2023-04-18T15:18:35.081+02:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"1","created":"2022-12-23T10:22:06.305+01:00","updated":"2023-04-18T15:23:27.216+02:00"}
 ---
  
 ## Hey 👋, This is Einar Stenberg
@@ -12,10 +12,10 @@
 ## Some of my Projects
 - This page itself, which serves as way for me to share the notes and knowledge i make.
   There is also a comment field on all pages leaving a convenient way to interact with people
-[[Projects/ColorPal\|Projects/ColorPal]]
-[[Stuff/Arduino Controlpanel med server interface\|Stuff/Arduino Controlpanel med server interface]]
-[[Stuff/Arduino FanCentral\|Stuff/Arduino FanCentral]]
-[[Stuff/SolderStation\|Stuff/SolderStation]]
+- [[Projects/ColorPal\|Projects/ColorPal]]
+- [[Stuff/Arduino Controlpanel med server interface\|Stuff/Arduino Controlpanel med server interface]]
+- [[Stuff/Arduino FanCentral\|Stuff/Arduino FanCentral]]
+- [[Stuff/SolderStation\|Stuff/SolderStation]]
 
 ## Some of my Github Stats
 
