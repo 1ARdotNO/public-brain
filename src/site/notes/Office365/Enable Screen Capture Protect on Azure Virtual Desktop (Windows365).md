@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/office365/enable-screen-capture-protect-on-azure-virtual-desktop-windows365/","tags":["public","office365","windows365"],"noteIcon":"1","created":"2023-04-13T14:52:52.216+02:00","updated":"2023-04-13T15:02:35.291+02:00"}
+{"dg-publish":true,"permalink":"/office365/enable-screen-capture-protect-on-azure-virtual-desktop-windows365/","tags":["public","office365","windows365"],"noteIcon":"1","created":"2023-04-13T14:52:52.216+02:00","updated":"2023-04-13T15:03:45.158+02:00"}
 ---
 
 
@@ -33,4 +33,4 @@ Win32app and PowerShell Scripts deployed are installed using the Intune Manageme
 
 ![No alt text provided for this image](https://media.licdn.com/dms/image/C4E12AQHzPZgZArJ5Ew/article-inline_image-shrink_1500_2232/0/1624545354713?e=1686787200&v=beta&t=AoIQKdu80UG60mXo4BRFhMTe6S3sbRXUnjs6MtaejQ4)
 
-Sources: [Enable Screen Capture Protect on Azure Virtual Desktop #AVD with Microsoft Endpoint Manager #MEM](https://www.linkedin.com/pulse/enable-screen-capture-protect-azure-virtual-desktop-avd-baur/)
+Sources: [Enable Screen Capture Protect on Azure Virtual Desktop AVD with Microsoft Endpoint Manager MEM](https://www.linkedin.com/pulse/enable-screen-capture-protect-azure-virtual-desktop-avd-baur/)
