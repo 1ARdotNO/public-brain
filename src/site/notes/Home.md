@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"1","created":"2022-12-23T10:22:06.305+01:00","updated":"2023-04-18T15:23:27.216+02:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"1","created":"2022-12-23T10:22:06.305+01:00","updated":"2023-06-23T13:35:30.586+02:00"}
 ---
  
 ## Hey 👋, This is Einar Stenberg
@@ -19,8 +19,5 @@
 
 ## Some of my Github Stats
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=OvrAp3x alt=OvrAp3x /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=OvrAp3x&show_icons=true&include_all_commits=true)](https://github.com/OvrAp3x/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OvrAp3x&layout=compact)](https://github.com/OvrAp3x/github-readme-stats)
 
