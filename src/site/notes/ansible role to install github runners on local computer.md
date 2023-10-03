@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/ansible-role-to-install-github-runners-on-local-computer/","tags":["public","ansible","Github"],"noteIcon":"1","created":"2023-10-03T14:26:41.602+02:00","updated":"2023-10-03T14:30:15.314+02:00"}
+{"dg-publish":true,"permalink":"/ansible-role-to-install-github-runners-on-local-computer/","tags":["public","ansible","Github"],"noteIcon":"1","created":"2023-10-03T14:26:41.602+02:00","updated":"2023-10-03T14:33:22.830+02:00"}
 ---
-
-
 
 This uses this role; [GitHub - macunha1/ansible-github-actions-runner: Idempotent Ansible role that installs and configures self-hosted GitHub Actions Runners (yeah, plural!)](https://github.com/macunha1/ansible-github-actions-runner/tree/master)
 
@@ -53,8 +51,7 @@ gh_runner_config_labels:
 
 gh_runner_service_user: ghrunner
 
-gh_runner_config_url: https://github.com/fintechinnovationas/vm-restore-database-backups
-
+gh_runner_config_url: https://github.com/ORG/REPO
 #Add token here on run time!
 
 gh_runner_config_token:
