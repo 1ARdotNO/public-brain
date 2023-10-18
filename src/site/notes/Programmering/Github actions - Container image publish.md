@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programmering/github-actions-container-image-publish/","tags":["public","github","docker"],"noteIcon":"1","created":"2023-04-04T14:45:05.793+02:00","updated":"2023-04-04T14:52:09.645+02:00"}
+{"dg-publish":true,"permalink":"/programmering/github-actions-container-image-publish/","tags":["public","github","docker"],"noteIcon":"1","created":"2023-08-15T14:20:21.000+02:00","updated":"2023-10-18T10:10:45.057+02:00"}
 ---
 
 ### about 
@@ -44,13 +44,13 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: ghcr.io/ovrap3x/imagename:latest
+          tags: ghcr.io/1ARdotNO/imagename:latest
 ```
 
-> [!INFO] Replace "imagename" and ovrap3x based upon owner/rg and desired imagename
+> [!INFO] Replace "imagename" and 1ARdotNO based upon owner/rg and desired imagename
 
 
 ### Troubleshooting
 Also, if you get error "failed to push ghcr.io unexpected status 403 forbidden"
 go to Settings > Actions > General for your repo, and ensure workflow permission is set to **Read and write** 
-![attachments/Pasted image 20230404144932.png](/img/user/Programmering/attachments/Pasted%20image%2020230404144932.png)
+![attachments/Pasted image 20230404144932.png|undefined](/img/user/Programmering/attachments/Pasted%20image%2020230404144932.png)
