@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/windows/install-windows-via-ssh/","tags":["public","linux","vps","windows","ssh"],"noteIcon":"1","created":"2022-12-23T10:51:18.837+01:00","updated":"2022-12-23T10:51:18.841+01:00"}
+{"dg-publish":true,"permalink":"/windows/install-windows-via-ssh/","tags":["public","linux","vps","windows","ssh"],"noteIcon":"1","created":"2023-08-15T14:20:21.000+02:00","updated":"2022-12-23T10:51:18.000+01:00"}
 ---
 
 With pictures:
