@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/convert-physical-or-linux-vm-to-open-vz-container/","tags":["public"],"noteIcon":"1","created":"2022-12-23T10:22:06.307+01:00","updated":"2023-01-19T14:52:01.485+01:00"}
+{"dg-publish":true,"permalink":"/linux/convert-physical-or-linux-vm-to-open-vz-container/","tags":["public"],"noteIcon":"1","created":"2023-08-15T14:20:14.000+02:00","updated":"2023-01-19T14:52:01.000+01:00"}
 ---
 
 #proxmox #linux 
