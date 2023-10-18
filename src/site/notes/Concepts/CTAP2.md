@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/ctap-2/","tags":["public"],"noteIcon":"1","created":"2023-04-21T13:36:39.688+02:00","updated":"2023-04-21T13:41:07.926+02:00"}
+{"dg-publish":true,"permalink":"/concepts/ctap-2/","tags":["public"],"noteIcon":"1","created":"2023-08-15T14:20:20.000+02:00","updated":"2023-04-24T15:27:16.000+02:00"}
 ---
 
 
