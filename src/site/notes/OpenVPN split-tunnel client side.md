@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/open-vpn-split-tunnel-client-side/","tags":["public","vpn"],"noteIcon":"1","created":"2023-06-09T18:18:27.604+02:00","updated":"2023-06-09T18:21:30.640+02:00"}
+{"dg-publish":true,"permalink":"/open-vpn-split-tunnel-client-side/","tags":["public","vpn"],"noteIcon":"1","created":"2023-08-15T14:20:47.000+02:00","updated":"2023-06-09T18:21:30.000+02:00"}
 ---
 
 
