@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/disk-commands-and-tools/","tags":["public"],"noteIcon":"1","created":"2022-12-23T10:22:06.308+01:00","updated":"2022-12-23T10:22:06.308+01:00"}
+{"dg-publish":true,"permalink":"/linux/disk-commands-and-tools/","tags":["public"],"noteIcon":"1","created":"2023-08-15T14:20:14.000+02:00","updated":"2022-12-23T10:22:06.000+01:00"}
 ---
 
 
