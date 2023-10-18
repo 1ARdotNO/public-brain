@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/proxmox-ve/","tags":["public"],"noteIcon":"1","created":"2023-01-19T10:19:12.400+01:00","updated":"2023-01-20T08:35:40.077+01:00"}
+{"dg-publish":true,"permalink":"/software/proxmox-ve/","tags":["public"],"noteIcon":"1","created":"2023-08-15T14:20:13.000+02:00","updated":"2023-01-20T08:35:40.000+01:00"}
 ---
 
 #proxmox #pve
