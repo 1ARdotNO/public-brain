@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/how-to-add-a-shared-mailbox-in-outlook-mac-os/","tags":["public","macos","outlook"],"noteIcon":"1","created":"2022-12-23T10:51:18.213+01:00","updated":"2022-12-23T10:51:18.213+01:00"}
+{"dg-publish":true,"permalink":"/mac-os/how-to-add-a-shared-mailbox-in-outlook-mac-os/","tags":["public","macos","outlook"],"noteIcon":"1","created":"2023-08-15T14:20:30.000+02:00","updated":"2022-12-23T10:51:18.000+01:00"}
 ---
 
 
