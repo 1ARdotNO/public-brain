@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/change-hostname/","tags":["public","linux","networking","debian"],"noteIcon":"1","created":"2022-12-23T10:22:06.306+01:00","updated":"2022-12-23T10:22:06.306+01:00"}
+{"dg-publish":true,"permalink":"/linux/change-hostname/","tags":["public","linux","networking","debian"],"noteIcon":"1","created":"2023-08-15T14:20:47.000+02:00","updated":"2022-12-23T10:22:06.000+01:00"}
 ---
 
 
