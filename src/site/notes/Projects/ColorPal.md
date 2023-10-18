@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/color-pal/","tags":["public","JS"],"noteIcon":"1","created":"2023-04-18T14:53:16.995+02:00","updated":"2023-04-19T14:59:26.940+02:00"}
+{"dg-publish":true,"permalink":"/projects/color-pal/","tags":["public","JS"],"noteIcon":"1","created":"2023-08-15T14:20:13.000+02:00","updated":"2023-10-18T10:11:16.725+02:00"}
 ---
 
 
@@ -13,4 +13,4 @@ It is hosted on github pages and the code is available for review there for anyo
 
 [ColorPal - Random Color Palette Generator](https://colorpal.1ar.no/)
 
-[GitHub - OvrAp3x/ColorPal](https://github.com/OvrAp3x/ColorPal)
+[GitHub - 1ARdotNO/ColorPal](https://github.com/1ARdotNO/ColorPal)
