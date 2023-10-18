@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/office365/opsgenie-active-on-call-to-aad-security-group/","tags":["public","office365","opsgenie","azuread"],"noteIcon":"1","created":"2023-06-02T14:08:59.267+02:00","updated":"2023-06-02T14:24:28.200+02:00"}
+{"dg-publish":true,"permalink":"/office365/opsgenie-active-on-call-to-aad-security-group/","tags":["public","office365","opsgenie","azuread"],"noteIcon":"1","created":"2023-08-15T14:20:13.000+02:00","updated":"2023-06-02T14:38:07.000+02:00"}
 ---
 
 
