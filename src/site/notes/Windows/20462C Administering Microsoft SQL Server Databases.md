@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/windows/20462-c-administering-microsoft-sql-server-databases/","tags":["public","kurs","mssql"],"noteIcon":"1","created":"2022-12-23T10:51:18.825+01:00","updated":"2023-01-04T12:19:46.806+01:00"}
+{"dg-publish":true,"permalink":"/windows/20462-c-administering-microsoft-sql-server-databases/","tags":["public","kurs","mssql"],"noteIcon":"1","created":"2023-08-15T14:20:12.000+02:00","updated":"2023-10-18T10:11:38.785+02:00"}
 ---
 
 # Backup
@@ -260,7 +260,7 @@ use master
 #### Index rebuild and integrity check
 
 Should be run at least once a week, preferably every night
-![Pasted image 20221206172859.png](/img/user/Windows/attachments/Pasted%20image%2020221206172859.png)
+![Pasted image 20221206172859.png|undefined](/img/user/Windows/attachments/Pasted%20image%2020221206172859.png)
 #### Full and log backup
 
 Should run every day ( if not more often!)
