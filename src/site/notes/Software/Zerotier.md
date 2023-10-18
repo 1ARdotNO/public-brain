@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/zerotier/","tags":["public"],"noteIcon":"1","created":"2022-12-23T10:22:06.394+01:00","updated":"2022-12-23T10:22:06.395+01:00"}
+{"dg-publish":true,"permalink":"/software/zerotier/","tags":["public"],"noteIcon":"1","created":"2023-08-15T14:20:21.000+02:00","updated":"2023-10-18T10:09:58.658+02:00"}
 ---
 
 
@@ -11,5 +11,5 @@ Mesh-zerotrust-vpn service
 
 ### install on unifi usg
 ```gist
-https://gist.github.com/OvrAp3x/aa5c43d000ecaa71045fd67549d9fb91
+https://gist.github.com/1ARdotNO/aa5c43d000ecaa71045fd67549d9fb91
 ```
