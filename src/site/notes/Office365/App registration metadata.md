@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/office365/app-registration-metadata/","tags":["public","office365","azuread"],"noteIcon":"1","created":"2023-03-14T15:20:19.294+01:00","updated":"2023-04-03T17:59:16.790+02:00"}
+{"dg-publish":true,"permalink":"/office365/app-registration-metadata/","tags":["public","office365","azuread"],"noteIcon":"1","created":"2023-08-15T14:20:13.000+02:00","updated":"2023-04-03T17:59:16.000+02:00"}
 ---
 
 # about
@@ -25,7 +25,7 @@ Every app can be managed from each option, but depending on how it is created it
 #### displayname for groupclaims
 Under token configuration in app registration, when creating a groups claim, you are able to set the identifying property to send to several values, but the option to use the "cloud_displayname" is not available in the gui for the app registration. 
 *Using the sAMAccountname here does not seem to work as expected, it probably only works with groups synced from on-prem that has this property*
-![Pasted image 20230314152838.png](/img/user/Office365/attachments/Pasted%20image%2020230314152838.png)
+![Pasted image 20230314152838.png|undefined](/img/user/Office365/attachments/Pasted%20image%2020230314152838.png)
 > [!NOTE] 
 > names passthrough of cloud-only groups seem to only work with [[Concepts/Enterprise apps in Azure AD\|Enterprise apps in Azure AD]].
 > [microsoft ref.](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-fed-group-claims#:~:text=Emit%20group%20name%20for%20cloud%2Donly%20groups)
