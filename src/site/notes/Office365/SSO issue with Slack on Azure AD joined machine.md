@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/office365/sso-issue-with-slack-on-azure-ad-joined-machine/","tags":["public","office365","azuread","slack","saml"],"noteIcon":"1","created":"2023-05-11T12:03:38.530+02:00","updated":"2023-05-11T12:13:17.829+02:00"}
+{"dg-publish":true,"permalink":"/office365/sso-issue-with-slack-on-azure-ad-joined-machine/","tags":["public","office365","azuread","slack","saml"],"noteIcon":"1","created":"2023-08-15T14:20:21.000+02:00","updated":"2023-06-02T14:36:03.000+02:00"}
 ---
 
 
