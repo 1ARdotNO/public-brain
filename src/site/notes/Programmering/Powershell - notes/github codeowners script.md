@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/programmering/powershell-notes/github-codeowners-script/","tags":["public"],"noteIcon":"1","created":"2023-02-16T14:38:43.329+01:00","updated":"2023-02-18T19:36:54.192+01:00"}
+{"dg-publish":true,"permalink":"/programmering/powershell-notes/github-codeowners-script/","tags":["public"],"noteIcon":"1","created":"2023-08-15T14:20:13.000+02:00","updated":"2023-10-18T10:10:02.121+02:00"}
 ---
 
 
 ```gist
-https://gist.github.com/OvrAp3x/cfb6e426cc1c1375e247b83f08fefc02
+https://gist.github.com/1ARdotNO/cfb6e426cc1c1375e247b83f08fefc02
 ```
