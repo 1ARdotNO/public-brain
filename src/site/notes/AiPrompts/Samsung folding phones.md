@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-prompts/samsung-folding-phones/","tags":["public","ai"],"noteIcon":"1","created":"2023-03-13T13:13:45.323+01:00","updated":"2023-03-13T22:18:40.885+01:00"}
+{"dg-publish":true,"permalink":"/ai-prompts/samsung-folding-phones/","tags":["public","ai"],"noteIcon":"1","created":"2023-08-15T14:20:32.000+02:00","updated":"2023-03-13T22:18:40.000+01:00"}
 ---
 
 ```tg
