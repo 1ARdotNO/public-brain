@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/giscus-github-discussions-powered-comments/","tags":["public"],"noteIcon":"1","created":"2023-02-17T11:53:08.753+01:00","updated":"2023-03-13T09:18:31.267+01:00"}
+{"dg-publish":true,"permalink":"/software/giscus-github-discussions-powered-comments/","tags":["public"],"noteIcon":"1","created":"2023-08-15T14:20:13.000+02:00","updated":"2023-10-18T10:11:04.566+02:00"}
 ---
 
 #Github 
@@ -17,7 +17,7 @@ Currently looking into how to implement this in digital garden,
 ### Issue #199
 ### 
 
-**[OvrAp3x](https://github.com/OvrAp3x)** commented [8 minutes ago](https://github.com/oleeskild/obsidian-digital-garden/issues/199#issue-1589161268) • edited 
+**[1ARdotNO](https://github.com/1ARdotNO)** commented [8 minutes ago](https://github.com/oleeskild/obsidian-digital-garden/issues/199#issue-1589161268) • edited 
 
 I have been looking into implementing some comments feature for the pages.
 
@@ -28,10 +28,10 @@ configured as such
 
 Then taking the snippet created from the giscus app and pasting it at the bottom of the .md file and due to the feature of rendering html in digital garden already, this causes the comment field to be loaded and it works great :-)  
 Example: [https://1ar.no/zero-tier-and-github-actions-zero-tier/](https://1ar.no/zero-tier-and-github-actions-zero-tier/)  
-source: [https://github.com/OvrAp3x/public-brain/blob/main/src/site/notes/ZeroTier%20and%20Github%20Actions%20%E2%80%93%20ZeroTier.md](https://github.com/OvrAp3x/public-brain/blob/main/src/site/notes/ZeroTier%20and%20Github%20Actions%20%E2%80%93%20ZeroTier.md)  
-backend: [https://github.com/OvrAp3x/public-brain/discussions](https://github.com/OvrAp3x/public-brain/discussions)
+source: [https://github.com/1ARdotNO/public-brain/blob/main/src/site/notes/ZeroTier%20and%20Github%20Actions%20%E2%80%93%20ZeroTier.md](https://github.com/1ARdotNO/public-brain/blob/main/src/site/notes/ZeroTier%20and%20Github%20Actions%20%E2%80%93%20ZeroTier.md)  
+backend: [https://github.com/1ARdotNO/public-brain/discussions](https://github.com/1ARdotNO/public-brain/discussions)
 
-What I am struggling with is how to set it up som that in the settings in obsidian there is a field that the giscus snippet can be pasted in, and automatically appended to the file when it is published.  
+What I am struggling with is how to set it up some that in the settings in obsidian there is a field that the giscus snippet can be pasted in, and automatically appended to the file when it is published.  
 Any pointers or help about how this can be accomplished?
 
 Reference for how to solve this, provided by Ole Eskil in the issue.
