@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/windows/how-to-install-wireless-display-in-windows-11/","tags":["public","windows","miracast"],"noteIcon":"1","created":"2023-06-01T08:19:54.848+02:00","updated":"2023-06-01T08:23:06.873+02:00"}
+{"dg-publish":true,"permalink":"/windows/how-to-install-wireless-display-in-windows-11/","tags":["public","windows","miracast"],"noteIcon":"1","created":"2023-08-15T14:20:12.000+02:00","updated":"2023-06-02T14:38:07.000+02:00"}
 ---
 
 
