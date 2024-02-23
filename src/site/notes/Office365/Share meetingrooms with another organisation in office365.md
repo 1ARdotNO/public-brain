@@ -15,7 +15,7 @@ Often it is useful to enable members of another org. to access your meeting room
 Go to exchange controll center > Organization > Sharing
 Click the `+` under organization sharing to add and entry.
 Setup as shown in the picture, make sure to define the group created earlier in the "browse..." box, otherwise all meetingsrooms will be made available.
-![Pasted image 20230307152755.png|undefined](/img/user/Office365/attachments/Pasted%20image%2020230307152755.png)
+![Pasted image 20230307152755.png](/img/user/Office365/attachments/Pasted%20image%2020230307152755.png)
 This allows the other org to see /free/busy status of the meeting rooms in the group.
 
 In the org you are sharing with this also needs to be configured, but you do not have to share anything back if you do not want to, ie. do not check the "enable calendar free/busy information sharing"
@@ -30,7 +30,7 @@ This allows ANY external email to book the room, we will restrict this in the ne
 #### Create transport rule to restrict sender domain
 Go to exchange control center, Mailflow > Rules
 Create a new rule as follows ( for the first field, "Apply this rule if..." you can utilize the group created earlier)
-![Pasted image 20230307153429.png|undefined](/img/user/Office365/attachments/Pasted%20image%2020230307153429.png)
+![Pasted image 20230307153429.png](/img/user/Office365/attachments/Pasted%20image%2020230307153429.png)
 
 After this, any person from the other org will be able to add the room in their outlook, see status and also book the room :-) 
 
