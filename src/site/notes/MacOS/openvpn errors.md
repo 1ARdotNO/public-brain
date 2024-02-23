@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/openvpn-errors/","tags":["vpn","macos"],"noteIcon":"1","created":"2024-01-31T13:37:24.805+01:00","updated":"2024-01-31T14:54:38.123+01:00"}
+{"dg-publish":true,"permalink":"/mac-os/openvpn-errors/","tags":["vpn","macos"],"noteIcon":"1","created":"2024-01-31T13:37:24.805+01:00","updated":"2024-02-05T11:26:36.654+01:00"}
 ---
 
-
+G
 If the error 
 ```
 openvpn error calling protected() method on socket
