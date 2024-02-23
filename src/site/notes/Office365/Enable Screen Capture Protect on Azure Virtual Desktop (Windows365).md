@@ -22,7 +22,7 @@ Set-ItemProperty "HKLM:SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services"
 4. Specify the name of the PowerShell script and you may add a description as well. Click Next.
 5. On the Script Settings window, you specify the script location. Click the folder icon and specify the PowerShell that you intend to deploy using Intune to devices.
 
-![attachments/Pasted image 20230413145326.png|undefined](/img/user/Office365/attachments/Pasted%20image%2020230413145326.png)
+![attachments/Pasted image 20230413145326.png](/img/user/Office365/attachments/Pasted%20image%2020230413145326.png)
 6. Lastly we configure Assignments. This determines to who you deploy the PowerShell script. Click Add Group and select your AVD Session Host group.
 7. To trigger the changes immediately reboot your AVD Session host and check the registry if the Key is applied.
 
