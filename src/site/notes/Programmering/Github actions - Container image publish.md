@@ -53,4 +53,4 @@ jobs:
 ### Troubleshooting
 Also, if you get error "failed to push ghcr.io unexpected status 403 forbidden"
 go to Settings > Actions > General for your repo, and ensure workflow permission is set to **Read and write** 
-![attachments/Pasted image 20230404144932.png|undefined](/img/user/Programmering/attachments/Pasted%20image%2020230404144932.png)
+![attachments/Pasted image 20230404144932.png](/img/user/Programmering/attachments/Pasted%20image%2020230404144932.png)
