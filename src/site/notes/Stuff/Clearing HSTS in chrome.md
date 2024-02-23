@@ -7,4 +7,4 @@ If you get an error message about invalid HSTS when trying to reach some site wh
 chrome://net-internals/#hsts
 ```
 Then put the domain you want to fix into, and click delete
-![Pasted image 20231018094335.png|undefined](/img/user/Stuff/attachments/Pasted%20image%2020231018094335.png)
+![Pasted image 20231018094335.png](/img/user/Stuff/attachments/Pasted%20image%2020231018094335.png)
