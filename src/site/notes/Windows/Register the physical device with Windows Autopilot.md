@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/windows/register-the-physical-device-with-windows-autopilot/","tags":["public","windows","windows365"],"noteIcon":"1","created":"2023-11-27T17:00:55.731+01:00","updated":"2023-11-21T11:06:43.000+01:00"}
+{"dg-publish":true,"permalink":"/windows/register-the-physical-device-with-windows-autopilot/","tags":["public","windows","windows365"],"noteIcon":"1","created":"2023-11-21T11:05:23.978+01:00","updated":"2023-11-21T11:06:43.608+01:00"}
 ---
 
 1. At the physical device's sign-in prompt, use Shift+F10 to open a command prompt.
