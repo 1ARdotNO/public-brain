@@ -260,7 +260,7 @@ use master
 #### Index rebuild and integrity check
 
 Should be run at least once a week, preferably every night
-![Pasted image 20221206172859.png|undefined](/img/user/Windows/attachments/Pasted%20image%2020221206172859.png)
+![Pasted image 20221206172859.png](/img/user/Windows/attachments/Pasted%20image%2020221206172859.png)
 #### Full and log backup
 
 Should run every day ( if not more often!)
