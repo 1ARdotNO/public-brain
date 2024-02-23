@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/apple-silicon-dfu-mode/","tags":["public","macos"],"noteIcon":"1","created":"2024-02-23T14:19:31.843+01:00","updated":"2024-02-23T14:24:34.101+01:00"}
+{"dg-publish":true,"permalink":"/mac-os/apple-silicon-dfu-mode/","tags":["public","macos"],"noteIcon":"1","created":"2024-02-23T14:19:31.843+01:00","updated":"2024-02-23T14:27:22.213+01:00"}
 ---
 
 To get a AppleSilicon machine into DFU mode can sometimes be hard or even impossible from apple's instructions.
@@ -10,4 +10,9 @@ DFU blaster uses the Serial thunderbolt console inteface to send the correct com
 > [!warning] USB restrictions
 >If your the computer you are using to assist in the recovery has USB restricions as part of corporate policy etc. this will not work
 
+![Pasted image 20240223142611.png](/img/user/MacOS/attachments/Pasted%20image%2020240223142611.png)
 Machine should now go into DFU mode and you can continue your recovery actions.
+
+
+> [!info] Charger
+> Charger on the target computer was not neccessary in my case with firmware recovery, but it is probably "smart" too ensure power does not run out while it is doing the tasks
