@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-1/","noteIcon":"1","created":"2024-02-27T15:20:40.011+01:00","updated":"2024-02-27T16:29:41.794+01:00"}
+{"dg-publish":true,"permalink":"/home-1/","noteIcon":"1","created":"2024-02-27T15:20:40.011+01:00","updated":"2024-02-27T16:41:01.872+01:00"}
 ---
  
 ## Hey 👋, This is Einar Stenberg
@@ -12,10 +12,9 @@
 
 ### Blog and recent articles
 
-| Title                           | Summary                  | Date              |
-| ------------------------------- | ------------------------ | ----------------- |
-| [[_Blog/test\|test]]         | This summarizes the text | February 27, 2024 |
-| [[_Blog/Untitled\|Untitled]] | \-                       | January 01, 2022  |
+| Title                           | Summary | Date              |
+| ------------------------------- | ------- | ----------------- |
+| [[_Blog/Untitled\|Untitled]] | \-      | February 27, 2024 |
 
 { .block-language-dataview}
 
