@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/ansible-role-to-install-github-runners-on-local-computer/","tags":["public","ansible","Github"],"noteIcon":"1","created":"2023-10-03T14:26:41.602+02:00","updated":"2023-10-03T14:33:22.830+02:00"}
+{"dg-publish":true,"permalink":"/linux/ansible-role-to-install-github-runners-on-local-computer/","tags":["public","ansible","Github"],"noteIcon":"1","created":"2023-10-03T14:26:41.602+02:00","updated":"2024-02-23T14:29:13.000+01:00"}
 ---
 
 This uses this role; [GitHub - macunha1/ansible-github-actions-runner: Idempotent Ansible role that installs and configures self-hosted GitHub Actions Runners (yeah, plural!)](https://github.com/macunha1/ansible-github-actions-runner/tree/master)
