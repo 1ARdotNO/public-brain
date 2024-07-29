@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/macos-printing-issue-after-14-4/","tags":["print","macos"],"noteIcon":"1","created":"2024-03-13T15:27:53.396+01:00","updated":"2024-03-13T15:33:21.562+01:00"}
+{"dg-publish":true,"permalink":"/mac-os/macos-printing-issue-after-14-4/","tags":["print","macos"],"noteIcon":"1","created":"2024-03-13T15:27:53.396+01:00","updated":"2024-03-14T19:39:14.000+01:00"}
 ---
 
 # New Mac OS 14.4 update - broke printing, no drivers listed
