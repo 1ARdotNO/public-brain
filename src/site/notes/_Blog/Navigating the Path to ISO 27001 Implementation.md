@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/navigating-the-path-to-iso-27001-implementation/","tags":["blog"],"noteIcon":"1","created":"2024-02-27T16:41:05.114+01:00","updated":"2024-02-27T16:48:45.759+01:00"}
+{"dg-publish":true,"permalink":"/blog/navigating-the-path-to-iso-27001-implementation/","tags":["blog","iso27001"],"noteIcon":"1","created":"2024-02-27T16:41:05.114+01:00","updated":"2024-08-14T10:38:28.091+02:00"}
 ---
 
 ## Intro
