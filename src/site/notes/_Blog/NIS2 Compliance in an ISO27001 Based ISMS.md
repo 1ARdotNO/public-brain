@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/nis-2-compliance-in-an-iso-27001-based-isms/","tags":["blog","iso27001"],"noteIcon":"1","created":"2024-08-14T10:20:10.655+02:00","updated":"2024-08-14T10:40:18.920+02:00"}
+{"dg-publish":true,"permalink":"/blog/nis-2-compliance-in-an-iso-27001-based-isms/","tags":["blog","iso27001"],"noteIcon":"1","created":"2024-08-14T10:20:10.655+02:00","updated":"2024-08-14T10:46:13.919+02:00"}
 ---
 
 ## About NIS2
@@ -7,10 +7,14 @@ NIS2 is an EU directive that enhances cybersecurity across critical sectors, exp
 It goes into effect on October 24 this year.
 
 ## The Challenge
-A with implementing any new framework the first step is to realise what is the purpose of the framework and to make a mapping of the new requirements to your existing requirements wherever possible. 
+Implementing a new framework, such as NIS2, presents several challenges, even for organisations with established processes and controls, like those based on ISO 27001. The first critical step in this process is understanding the purpose and scope of the new framework. This involves thoroughly analysing how the framework’s objectives align with the organisation’s goals and security posture.
+
+Once the purpose is clear, the next challenge is mapping the new requirements to your current framework. This means identifying where the new regulations overlap with existing controls and where they introduce new obligations. The goal is to integrate these new requirements without duplicating efforts or creating unnecessary complexity. This mapping process requires a detailed comparison of both frameworks, understanding their differences and similarities, and determining how best to align them to ensure compliance while maintaining efficiency.
+
+This step is crucial because it helps organisations avoid redundant work, ensures that existing strengths are leveraged, and facilitates a smoother transition to compliance with the new framework. It also helps identify any gaps that need to be addressed, allowing for a more targeted and effective implementation strategy.
 
 ## NIS2 To ISO27001/2
-The cybersecurity requirements of NIS2 are actually well covered under ISO27001, both based upon my own investigation and other sources such as [KPMG](https://assets.kpmg.com/content/dam/kpmg/pl/pdf/2023/10/kpmg-network-and-information-security-directive-nis2.pdf)
+The cybersecurity requirements of NIS2 are well covered under ISO27001, both based upon my own investigation and other sources such as [KPMG](https://assets.kpmg.com/content/dam/kpmg/pl/pdf/2023/10/kpmg-network-and-information-security-directive-nis2.pdf)
 In summary, the primary mapping of the cybersecurity requirements can be done like this,
 
 | **Control Title**                      | **NIS2**              | **ISO27001**                             |
