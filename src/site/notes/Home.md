@@ -14,6 +14,7 @@
 
 | Title                                                                                                         | Summary               | Date            |
 | ------------------------------------------------------------------------------------------------------------- | --------------------- | --------------- |
+| [[_Blog/NIS2 Compliance in an ISO27001 Based ISMS\|NIS2 Compliance in an ISO27001 Based ISMS]]             | NIS2 To ISO27001      | August 14, 2024 |
 | [[_Blog/Navigating the Path to ISO 27001 Implementation\|Navigating the Path to ISO 27001 Implementation]] | ISO27001 - ISMS steps | August 27, 2023 |
 
 { .block-language-dataview}
