@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/zfs-on-linux-cheat-sheet/","tags":["public","zfs","disk","linux"],"noteIcon":"1","created":"2023-08-15T14:20:47.000+02:00","updated":"2022-12-23T10:22:06.000+01:00"}
+{"dg-publish":true,"permalink":"/linux/zfs-on-linux-cheat-sheet/","tags":["public","zfs","disk","linux"],"noteIcon":"1","created":"2024-08-03T14:54:21.453+02:00","updated":"2022-12-23T10:22:06.000+01:00"}
 ---
 
 
