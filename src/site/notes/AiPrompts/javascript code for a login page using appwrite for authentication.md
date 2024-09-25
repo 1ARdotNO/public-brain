@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-prompts/javascript-code-for-a-login-page-using-appwrite-for-authentication/","tags":["public","ai"],"noteIcon":"1","created":"2023-08-15T14:20:20.000+02:00","updated":"2023-03-13T22:18:40.000+01:00"}
+{"dg-publish":true,"permalink":"/ai-prompts/javascript-code-for-a-login-page-using-appwrite-for-authentication/","tags":["public","ai"],"noteIcon":"1","created":"2024-08-03T14:53:08.099+02:00","updated":"2023-03-13T22:18:40.000+01:00"}
 ---
 
 
