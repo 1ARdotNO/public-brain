@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stuff/vaultwarden-as-bitwarden-secret-manager-replacment/","tags":["public"],"noteIcon":"1","created":"2024-06-10T16:04:47.007+02:00","updated":"2024-06-10T16:06:18.457+02:00"}
+{"dg-publish":true,"permalink":"/stuff/vaultwarden-as-bitwarden-secret-manager-replacment/","tags":["public"],"noteIcon":"1","created":"2024-08-03T14:55:51.783+02:00","updated":"2024-06-10T16:06:18.000+02:00"}
 ---
 
 use the Bitwarden cli with the `serve` command. Vaultwarden already supports the api tokens for users and organizations, so you can use that to login.
