@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/drata-intune-workstation-integration/","tags":["public","macos","intune","drata"],"noteIcon":"1","created":"2024-04-10T12:19:11.159+02:00","updated":"2024-04-11T20:03:06.000+02:00"}
+{"dg-publish":true,"permalink":"/mac-os/drata-intune-workstation-integration/","tags":["public","macos","intune","drata"],"noteIcon":"1","created":"2024-08-03T14:55:52.246+02:00","updated":"2024-04-11T20:03:06.000+02:00"}
 ---
 
 ## about
