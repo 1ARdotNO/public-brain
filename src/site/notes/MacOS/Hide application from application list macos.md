@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/hide-application-from-application-list-macos/","tags":["macos","public"],"noteIcon":"1","created":"2024-04-29T16:12:19.998+02:00","updated":"2024-04-29T16:15:17.745+02:00"}
+{"dg-publish":true,"permalink":"/mac-os/hide-application-from-application-list-macos/","tags":["macos","public"],"noteIcon":"1","created":"2024-08-03T14:55:52.256+02:00","updated":"2024-04-29T16:15:17.000+02:00"}
 ---
 
 
