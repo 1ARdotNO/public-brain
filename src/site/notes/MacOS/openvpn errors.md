@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/openvpn-errors/","tags":["vpn","macos"],"noteIcon":"1","created":"2024-01-31T13:37:24.805+01:00","updated":"2024-02-05T11:26:36.654+01:00"}
+{"dg-publish":true,"permalink":"/mac-os/openvpn-errors/","tags":["vpn","macos"],"noteIcon":"1","created":"2024-08-03T14:55:34.702+02:00","updated":"2024-02-05T11:26:36.000+01:00"}
 ---
 
 G
