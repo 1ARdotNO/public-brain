@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/office365/copy-named-location/","tags":["public","office365","azuread"],"noteIcon":"1","created":"2023-08-15T14:20:13.000+02:00","updated":"2023-07-31T13:58:10.000+02:00"}
+{"dg-publish":true,"permalink":"/office365/copy-named-location/","tags":["public","office365","azuread"],"noteIcon":"1","created":"2024-08-03T14:52:58.292+02:00","updated":"2023-07-31T13:58:10.000+02:00"}
 ---
 
 
