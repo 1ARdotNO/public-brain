@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/security/yubikey/yubikey-fido-usage-in-firefox/","tags":["public"],"noteIcon":"1","created":"2023-08-15T14:20:13.000+02:00","updated":"2023-04-24T15:27:16.000+02:00"}
+{"dg-publish":true,"permalink":"/security/yubikey/yubikey-fido-usage-in-firefox/","tags":["public"],"noteIcon":"1","created":"2024-08-03T14:52:58.072+02:00","updated":"2023-04-24T15:27:16.000+02:00"}
 ---
 
 
