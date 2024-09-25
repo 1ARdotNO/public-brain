@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/enterprise-apps-in-azure-ad/","tags":["public","ai","office365","azuread"],"noteIcon":"1","created":"2023-08-15T14:20:20.000+02:00","updated":"2023-03-16T22:03:37.000+01:00"}
+{"dg-publish":true,"permalink":"/concepts/enterprise-apps-in-azure-ad/","tags":["public","ai","office365","azuread"],"noteIcon":"1","created":"2024-08-03T14:53:07.408+02:00","updated":"2023-03-16T22:03:37.000+01:00"}
 ---
 
 
