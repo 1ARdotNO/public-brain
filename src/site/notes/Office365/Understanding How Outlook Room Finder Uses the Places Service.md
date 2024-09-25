@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/office365/understanding-how-outlook-room-finder-uses-the-places-service/","tags":["public"],"noteIcon":"1","created":"2023-08-15T14:20:21.000+02:00","updated":"2023-01-27T08:02:37.000+01:00"}
+{"dg-publish":true,"permalink":"/office365/understanding-how-outlook-room-finder-uses-the-places-service/","tags":["public"],"noteIcon":"1","created":"2024-08-03T14:53:21.540+02:00","updated":"2024-09-25T17:17:07.018+02:00"}
 ---
 
 #office365 #powershell #outlook 
@@ -98,11 +98,11 @@ New-DistributionGroup -Name "Milwaukee Conference Rooms" -RoomList New-Distribut
 New-DistributionGroup -Name "Milwaukee Conference Rooms" -RoomList
 New-DistributionGroup -Name "Chicago Conference Rooms"-RoomList
 
-![Adding the new "Milwaukee Conference Rooms" room list](/img/user/attachments/Adding_the_new_!Milwaukee_Conference_Rooms!_room_list.png)
+![](/img/user/attachments/Adding_the_new_!Milwaukee_Conference_Rooms!_room_list.png)
 
 Adding the new “Milwaukee Conference Rooms” room list
 
-![Adding the new "Chicago Conference Rooms" room list](/img/user/attachments/Adding_the_new_!Chicago_Conference_Rooms!_room_list.png)
+![](/img/user/attachments/Adding_the_new_!Chicago_Conference_Rooms!_room_list.png)
 
 Adding the new “Chicago Conference Rooms” room list
 
