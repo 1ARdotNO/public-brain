@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-prompts/about-ai-prompts/","tags":["public","ai"],"noteIcon":"1","created":"2023-08-15T14:20:20.000+02:00","updated":"2023-03-14T15:49:17.000+01:00"}
+{"dg-publish":true,"permalink":"/ai-prompts/about-ai-prompts/","tags":["public","ai"],"noteIcon":"1","created":"2024-08-03T14:53:08.089+02:00","updated":"2023-03-14T15:49:17.000+01:00"}
 ---
 
 
