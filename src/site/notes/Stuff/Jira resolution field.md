@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stuff/jira-resolution-field/","tags":["public","jira"],"noteIcon":"1","created":"2023-08-23T11:54:29.967+02:00","updated":"2023-08-23T11:57:14.083+02:00"}
+{"dg-publish":true,"permalink":"/stuff/jira-resolution-field/","tags":["public","jira"],"noteIcon":"1","created":"2024-08-03T14:55:33.186+02:00","updated":"2023-08-23T11:57:14.000+02:00"}
 ---
 
 
