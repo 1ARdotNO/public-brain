@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programmering/powershell-notes/github-codeowners-script/","tags":["public"],"noteIcon":"1","created":"2023-08-15T14:20:13.000+02:00","updated":"2023-10-18T10:10:02.121+02:00"}
+{"dg-publish":true,"permalink":"/programmering/powershell-notes/github-codeowners-script/","tags":["public"],"noteIcon":"1","created":"2024-08-03T14:52:58.135+02:00","updated":"2023-10-18T10:10:02.000+02:00"}
 ---
 
 
