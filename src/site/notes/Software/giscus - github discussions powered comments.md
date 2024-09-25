@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/giscus-github-discussions-powered-comments/","tags":["public"],"noteIcon":"1","created":"2023-08-15T14:20:13.000+02:00","updated":"2023-10-18T10:11:04.566+02:00"}
+{"dg-publish":true,"permalink":"/software/giscus-github-discussions-powered-comments/","tags":["public"],"noteIcon":"1","created":"2024-08-03T14:52:57.958+02:00","updated":"2023-10-18T10:11:04.000+02:00"}
 ---
 
 #Github 
