@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/windows/script-to-create-ad-user-accounts/","tags":["public","ai","ad"],"noteIcon":"1","created":"2023-08-15T14:20:21.000+02:00","updated":"2023-04-03T17:59:15.000+02:00"}
+{"dg-publish":true,"permalink":"/windows/script-to-create-ad-user-accounts/","tags":["public","ai","ad"],"noteIcon":"1","created":"2024-08-03T14:53:21.341+02:00","updated":"2023-04-03T17:59:15.000+02:00"}
 ---
 
 
