@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/security/e-idas-certificates-references/","tags":["public"],"noteIcon":"1","created":"2024-08-26T10:14:52.000+02:00","updated":"2024-08-26T10:17:52.875+02:00"}
+{"dg-publish":true,"permalink":"/security/e-idas-certificates-references/","tags":["public"],"noteIcon":"1","created":"2024-08-26T09:45:23.883+02:00","updated":"2024-08-26T10:17:52.000+02:00"}
 ---
 
 [03\_enrico-entschew\_ca-day-entschew-1-1.pdf](https://www.enisa.europa.eu/events/trust-servicies-forum-ca-day-2021/ca-day-presentation/03_enrico-entschew_ca-day-entschew-1-1.pdf?ref=scotthelme.co.uk#page=12)
