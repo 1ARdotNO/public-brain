@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/proxmox-backup-client-installation/","tags":["public","proxmox","backup","linux"],"noteIcon":"1","created":"2023-08-15T14:20:14.000+02:00","updated":"2023-01-19T14:57:12.000+01:00"}
+{"dg-publish":true,"permalink":"/linux/proxmox-backup-client-installation/","tags":["public","proxmox","backup","linux"],"noteIcon":"1","created":"2024-08-03T14:52:59.360+02:00","updated":"2023-01-19T14:57:12.000+01:00"}
 ---
 
 #proxmox 
