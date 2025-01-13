@@ -14,3 +14,7 @@ I found this page [Set up user enrollment with Company Portal for iOS - Microsof
 
 The solution is to edit your enrollment type profile and transition to another enrollment type, [account-driven user enrollment](https://learn.microsoft.com/en-us/mem/intune/enrollment/apple-account-driven-user-enrollment) instead as it matches the old user enrollment most closely 
 ![Pasted image 20250108105850.png](/img/user/MacOS/attachments/Pasted%20image%2020250108105850.png)
+
+> [!NOTE]
+> While account driven might be the closest fit from microsofts docs, I would recommend using   
+> Device enrollment with Company Portal, to maintain the company portal features and all the intune reporting. It also far easier to configure, not requiring the http well-known file etc.
