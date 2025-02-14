@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/nis-2-compliance-in-an-iso-27001-based-isms/","tags":["blog","iso27001"],"noteIcon":"1","created":"2024-08-15T09:44:50.123+02:00","updated":"2024-08-14T10:46:13.000+02:00"}
+{"dg-publish":true,"permalink":"/blog/nis-2-compliance-in-an-iso-27001-based-isms/","tags":["blog","iso27001"],"noteIcon":"1"}
 ---
 
 ## About NIS2
