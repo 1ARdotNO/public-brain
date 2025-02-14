@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/security/lovlig-basis-for-epost-overvakning-i-norge/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/security/lovlig-basis-for-epost-overvakning-i-norge/","tags":["blog"],"noteIcon":"1"}
 ---
 
 #lov #norway #email 
