@@ -12,12 +12,11 @@
 
 ### Blog and recent articles
 
-| Title                                                                                                           | Summary                          | Date              |
-| --------------------------------------------------------------------------------------------------------------- | -------------------------------- | ----------------- |
-| [[_Blog/Lovlig basis for Epost overvåkning i Norge\|Lovlig basis for Epost overvåkning i Norge]]             | Legal basis for email monitoring | February 13, 2025 |
-| [[_Blog/Lovlig basis for Epost overvåkning i Norge-MilkY\|Lovlig basis for Epost overvåkning i Norge-MilkY]] | Legal basis for email monitoring | February 13, 2025 |
-| [[_Blog/NIS2 Compliance in an ISO27001 Based ISMS\|NIS2 Compliance in an ISO27001 Based ISMS]]               | NIS2 To ISO27001                 | August 14, 2024   |
-| [[_Blog/Navigating the Path to ISO 27001 Implementation\|Navigating the Path to ISO 27001 Implementation]]   | ISO27001 - ISMS steps            | August 27, 2023   |
+| Title                                                                                                         | Summary                          | Date              |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------------- | ----------------- |
+| [[_Blog/Lovlig basis for Epost overvåkning i Norge\|Lovlig basis for Epost overvåkning i Norge]]           | Legal basis for email monitoring | February 13, 2025 |
+| [[_Blog/NIS2 Compliance in an ISO27001 Based ISMS\|NIS2 Compliance in an ISO27001 Based ISMS]]             | NIS2 To ISO27001                 | August 14, 2024   |
+| [[_Blog/Navigating the Path to ISO 27001 Implementation\|Navigating the Path to ISO 27001 Implementation]] | ISO27001 - ISMS steps            | August 27, 2023   |
 
 { .block-language-dataview}
 
