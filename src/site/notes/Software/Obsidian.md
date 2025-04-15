@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/obsidian/","tags":["public"],"noteIcon":"1","created":"2024-08-03T14:52:57.979+02:00","updated":"2023-03-14T16:36:33.000+01:00"}
+{"dg-publish":true,"permalink":"/software/obsidian/","tags":["public"],"noteIcon":"1"}
 ---
 
 ## About

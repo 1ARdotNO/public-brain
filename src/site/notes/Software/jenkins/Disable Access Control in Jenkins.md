@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/jenkins/disable-access-control-in-jenkins/","tags":["public"],"noteIcon":"1","created":"2024-08-03T14:53:21.437+02:00","updated":"2023-03-14T14:38:57.000+01:00"}
+{"dg-publish":true,"permalink":"/software/jenkins/disable-access-control-in-jenkins/","tags":["public"],"noteIcon":"1"}
 ---
 
 

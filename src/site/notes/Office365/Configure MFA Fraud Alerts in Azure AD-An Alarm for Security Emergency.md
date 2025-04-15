@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/office365/configure-mfa-fraud-alerts-in-azure-ad-an-alarm-for-security-emergency/","tags":["public","office365","mfa"],"noteIcon":"1","created":"2024-08-03T14:53:21.552+02:00","updated":"2023-04-03T17:59:16.000+02:00"}
+{"dg-publish":true,"permalink":"/office365/configure-mfa-fraud-alerts-in-azure-ad-an-alarm-for-security-emergency/","tags":["public","office365","mfa"],"noteIcon":"1"}
 ---
 
 

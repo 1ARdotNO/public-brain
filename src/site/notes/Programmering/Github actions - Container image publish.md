@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programmering/github-actions-container-image-publish/","tags":["public","github","docker"],"noteIcon":"1","created":"2024-08-03T14:53:21.508+02:00","updated":"2023-10-18T10:10:45.000+02:00"}
+{"dg-publish":true,"permalink":"/programmering/github-actions-container-image-publish/","tags":["public","github","docker"],"noteIcon":"1"}
 ---
 
 ### about 

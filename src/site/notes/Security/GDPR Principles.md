@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/security/gdpr-principles/","tags":["public"],"noteIcon":"1","created":"2024-08-13T20:23:44.336+02:00","updated":"2024-08-14T10:52:38.000+02:00"}
+{"dg-publish":true,"permalink":"/security/gdpr-principles/","tags":["public"],"noteIcon":"1"}
 ---
 
 

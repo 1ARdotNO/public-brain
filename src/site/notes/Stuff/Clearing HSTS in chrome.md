@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stuff/clearing-hsts-in-chrome/","tags":["public","chrome"],"noteIcon":"1","created":"2024-08-03T14:55:33.196+02:00","updated":"2023-10-18T09:43:43.000+02:00"}
+{"dg-publish":true,"permalink":"/stuff/clearing-hsts-in-chrome/","tags":["public","chrome"],"noteIcon":"1"}
 ---
 
 If you get an error message about invalid HSTS when trying to reach some site where the SSL certificate has changed or something like that, you can visit 

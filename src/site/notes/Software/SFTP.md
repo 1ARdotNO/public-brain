@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/sftp/","tags":["public"],"noteIcon":"1","created":"2024-08-03T14:52:58.000+02:00","updated":"2023-01-03T14:34:45.000+01:00"}
+{"dg-publish":true,"permalink":"/software/sftp/","tags":["public"],"noteIcon":"1"}
 ---
 
 

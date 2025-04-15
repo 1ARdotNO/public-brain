@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/libre-wolf/","tags":["public"],"noteIcon":"1","created":"2024-08-03T14:52:57.910+02:00","updated":"2023-02-28T21:14:12.000+01:00"}
+{"dg-publish":true,"permalink":"/software/libre-wolf/","tags":["public"],"noteIcon":"1"}
 ---
 
 #browser #firefox

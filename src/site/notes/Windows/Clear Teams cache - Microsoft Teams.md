@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/windows/clear-teams-cache-microsoft-teams/","title":"Clear Teams cache - Microsoft Teams","tags":["clippings","public"],"noteIcon":"1","created":"2024-11-14T12:29:22.136+01:00","updated":"2024-11-19T11:50:05.124+01:00"}
+{"dg-publish":true,"permalink":"/windows/clear-teams-cache-microsoft-teams/","title":"Clear Teams cache - Microsoft Teams","tags":["clippings","public"],"noteIcon":"1"}
 ---
 
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/blog/lovlig-basis-for-epost-overvakning-i-norge/","tags":["blog"],"noteIcon":"1"}
 ---
 
+
 #lov #norway #email 
 ### References
 - [Innsyn i epost og filer \| Datatilsynet](https://www.datatilsynet.no/personvern-pa-ulike-omrader/personvern-pa-arbeidsplassen/innsyn-epost-filer/nar-er-innsyn-lovlig/)

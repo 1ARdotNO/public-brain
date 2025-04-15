@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/zerotier-notes/zero-tier-and-github-actions-zero-tier/","tags":["public"],"noteIcon":"1","created":"2024-08-03T14:52:57.880+02:00","updated":"2023-03-07T20:45:39.000+01:00"}
+{"dg-publish":true,"permalink":"/software/zerotier-notes/zero-tier-and-github-actions-zero-tier/","tags":["public"],"noteIcon":"1"}
 ---
 
 #vpn #zerotier #zerotrust #Github 

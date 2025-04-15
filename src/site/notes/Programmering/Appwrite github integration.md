@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/programmering/appwrite-github-integration/","tags":["appwrite"],"noteIcon":"1","created":"2024-08-03T14:55:33.320+02:00","updated":"2023-11-02T21:38:19.000+01:00"}
+{"dg-publish":true,"permalink":"/programmering/appwrite-github-integration/","tags":["appwrite"],"noteIcon":"1"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/proxmox-oidc-azure-ad-authentication/","tags":["proxmox","pve","azuread","public","office365","linux"],"noteIcon":"1","created":"2024-08-03T14:55:34.752+02:00","updated":"2023-10-09T13:05:14.000+02:00"}
+{"dg-publish":true,"permalink":"/linux/proxmox-oidc-azure-ad-authentication/","tags":["proxmox","pve","azuread","public","office365","linux"],"noteIcon":"1"}
 ---
 
 

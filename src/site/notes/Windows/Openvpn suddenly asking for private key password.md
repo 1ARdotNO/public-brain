@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/windows/openvpn-suddenly-asking-for-private-key-password/","tags":["openvpn","windows","ssl","public"],"noteIcon":"1","created":"2024-08-03T14:55:51.764+02:00","updated":"2024-05-27T16:14:53.000+02:00"}
+{"dg-publish":true,"permalink":"/windows/openvpn-suddenly-asking-for-private-key-password/","tags":["openvpn","windows","ssl","public"],"noteIcon":"1"}
 ---
 
 After OpenVPN version 2.6.0 the auth mechanism has changed a bit, so clients using a certificate and key that is old, might have a problem where the user is continuosly prompted to enter their "private key password" even if the private key used for the auth does not have a password.

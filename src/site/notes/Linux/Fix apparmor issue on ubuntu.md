@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/fix-apparmor-issue-on-ubuntu/","tags":["public","linux","fix","domain","activedirectory","ubuntu"],"noteIcon":"1","created":"2024-08-03T14:52:59.381+02:00","updated":"2022-12-23T10:22:06.000+01:00"}
+{"dg-publish":true,"permalink":"/linux/fix-apparmor-issue-on-ubuntu/","tags":["public","linux","fix","domain","activedirectory","ubuntu"],"noteIcon":"1"}
 ---
 
 There is a known issue with apparmor stopping applications from ubuntu snap launching on domain joined machines.

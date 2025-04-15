@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/munki/","tags":["public"],"noteIcon":"1","created":"2024-08-03T14:53:21.741+02:00","updated":"2023-01-17T13:32:43.000+01:00"}
+{"dg-publish":true,"permalink":"/mac-os/munki/","tags":["public"],"noteIcon":"1"}
 ---
 
 ## About munki

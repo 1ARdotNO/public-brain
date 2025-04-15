@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/munkireport/","tags":["public","munki","azuread","saml"],"noteIcon":"1","created":"2024-08-03T14:54:21.391+02:00","updated":"2023-06-02T14:38:07.000+02:00"}
+{"dg-publish":true,"permalink":"/mac-os/munkireport/","tags":["public","munki","azuread","saml"],"noteIcon":"1"}
 ---
 
 

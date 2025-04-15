@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/apqc/","tags":["public","ai","iso"],"noteIcon":"1","created":"2024-08-03T14:53:07.377+02:00","updated":"2023-04-03T17:59:16.000+02:00"}
+{"dg-publish":true,"permalink":"/concepts/apqc/","tags":["public","ai","iso"],"noteIcon":"1"}
 ---
 
 

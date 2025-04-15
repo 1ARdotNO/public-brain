@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/appwrite/","tags":["public","jira","atlassian"],"noteIcon":"1","created":"2024-08-03T14:52:57.948+02:00","updated":"2022-12-23T10:22:06.000+01:00"}
+{"dg-publish":true,"permalink":"/software/appwrite/","tags":["public","jira","atlassian"],"noteIcon":"1"}
 ---
 
 

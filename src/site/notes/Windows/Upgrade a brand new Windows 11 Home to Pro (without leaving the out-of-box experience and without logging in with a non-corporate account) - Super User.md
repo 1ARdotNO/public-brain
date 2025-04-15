@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/windows/upgrade-a-brand-new-windows-11-home-to-pro-without-leaving-the-out-of-box-experience-and-without-logging-in-with-a-non-corporate-account-super-user/","tags":["public","windows"],"noteIcon":"1","created":"2024-08-04T21:16:22.113+02:00","updated":"2024-09-05T14:29:26.296+02:00"}
+{"dg-publish":true,"permalink":"/windows/upgrade-a-brand-new-windows-11-home-to-pro-without-leaving-the-out-of-box-experience-and-without-logging-in-with-a-non-corporate-account-super-user/","tags":["public","windows"],"noteIcon":"1"}
 ---
 
-1. Choose language, keyboard layout, device name etc.
+Ca1. Choose language, keyboard layout, device name etc.
     
 2. Once you hit the login screen, press shift + F10 to open CMD. Technically you can open CMD while it's installing Updates but I don't recommend this because it will restart without warning and might interrupt the following process.
     

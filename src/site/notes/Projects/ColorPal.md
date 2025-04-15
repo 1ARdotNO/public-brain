@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/color-pal/","tags":["public","JS"],"noteIcon":"1","created":"2024-08-03T14:52:58.115+02:00","updated":"2023-10-18T10:11:16.000+02:00"}
+{"dg-publish":true,"permalink":"/projects/color-pal/","tags":["public","JS"],"noteIcon":"1"}
 ---
 
 

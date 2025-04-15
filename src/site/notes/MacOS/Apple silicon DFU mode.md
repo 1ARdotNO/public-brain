@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/apple-silicon-dfu-mode/","tags":["public","macos"],"noteIcon":"1","created":"2024-08-03T14:55:34.713+02:00","updated":"2024-02-23T14:27:22.000+01:00"}
+{"dg-publish":true,"permalink":"/mac-os/apple-silicon-dfu-mode/","tags":["public","macos"],"noteIcon":"1"}
 ---
 
 To get a AppleSilicon machine into DFU mode can sometimes be hard or even impossible from apple's instructions.
