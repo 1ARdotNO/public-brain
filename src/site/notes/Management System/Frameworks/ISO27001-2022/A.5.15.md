@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 tags:
-  - "#requirement"
+  - "requirement"
 Name: Access control
 Code: "A.5.15"
 Framework: ISO27001:2022
@@ -12,4 +12,5 @@ Additional_Info:
 
 <div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Key</span><span class="dataview small-text">6</span></th><th class="table-view-th"><span>Value</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Name</span></td><td><span>Access control</span></td></tr><tr><td><span>Code</span></td><td><span>A.5.15</span></td></tr><tr><td><span>Framework</span></td><td><span>ISO27001:2022</span></td></tr><tr><td><span>Section</span></td><td><span>Annex A</span></td></tr><tr><td><span>Category</span></td><td><span>Identification &amp; Authentication</span></td></tr><tr><td><span>Additional_Info</span></td><td><span>-</span></td></tr></tbody></table></div>
 # Description
+
 Rules to control physical and logical access to information and other associated assets shall be established and implemented based on business and information security requirements.
