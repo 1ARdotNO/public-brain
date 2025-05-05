@@ -3,4 +3,14 @@
 ---
 
 
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Key</span><span class="dataview small-text">0</span></th><th class="table-view-th"><span>Value</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
+<pre class="dataview dataview-error">Evaluation Error: TypeError: Cannot convert undefined or null to object
+    at Function.entries (&lt;anonymous&gt;)
+    at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:7:23)
+    at DataviewInlineApi.eval (plugin:dataview:18885:16)
+    at evalInContext (plugin:dataview:18886:7)
+    at asyncEvalInContext (plugin:dataview:18896:32)
+    at DataviewJSRenderer.render (plugin:dataview:18922:19)
+    at DataviewJSRenderer.onload (plugin:dataview:18464:14)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewApi.executeJs (plugin:dataview:19465:18)
+    at DataviewCompiler.eval (plugin:digitalgarden:10760:23)</pre>
