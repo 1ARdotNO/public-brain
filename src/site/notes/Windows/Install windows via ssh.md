@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/windows/install-windows-via-ssh/","tags":["public","linux","vps","windows","ssh"],"noteIcon":"1"}
 ---
 
-With pictures:
-[[xwiki_einar_install+windows+via+ssh_webhome.pdf]]
+source:[Kimsufi Windows Install Guide (KS1 / KS2) - OVH Server](https://matthewhill.uk/tutorials/kimsufi-windows-install-guide-ovh-server/)
 
 Welcome to my Kimsufi Windows Install Guide. OVH have some very cheap entry level dedicated servers which are branded under the Kimsufi name. The KS1 server which is currently £5 a month including VAT gets you a:
 
